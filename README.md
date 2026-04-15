@@ -1,2 +1,10 @@
-# Aplica-o-Pr-tica-de-Python-na-Ci-ncia-dos-Dados
-Análise exploratória de dados de crédito utilizando Python e Pandas, com foco em limpeza, padronização e estatística descritiva de variáveis financeiras.
+# Projeto: Análise de Inadimplência de Clientes
+Este projeto faz uma análise exploratória de um conjunto de dados de clientes de cartões de crédito em Taiwan.
+
+## Objetivo
+Identificar o perfil dos clientes e entender a distribuição de limites de crédito e pagamentos.
+
+## Tecnologias Utilizadas
+* Python 3
+* Pandas (Manipulação de dados)
+* Jupyter Notebook
